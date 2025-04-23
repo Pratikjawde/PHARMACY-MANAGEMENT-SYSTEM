@@ -1,0 +1,1 @@
+EXEC sp_GetPatientHistoryDetails @PatientId = 'PAT04'

@@ -1,0 +1,1 @@
+select Patient_Id ,Patient_History FROM Patient where Patient_Id= 'PAT01'

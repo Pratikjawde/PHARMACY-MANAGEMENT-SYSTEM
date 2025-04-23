@@ -1,0 +1,1 @@
+EXEC sp_GetPrescriptionDetails @PrescriptionId = 'RX101'
